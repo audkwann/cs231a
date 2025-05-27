@@ -22,4 +22,4 @@ The following files were created for this project:
 - comparison_frames.py
 - run_colmap.py
 
-This repository also contains zip files to the NOAA Dataset, sectioned by dive site, and to a small semantic segmentation dataset.
+This repository also contains zip files to the NOAA Dataset (sectioned by dive site), the SeaThruNeRF dataset, and a small semantic segmentation dataset (subset of 50 images from MS7T2).
