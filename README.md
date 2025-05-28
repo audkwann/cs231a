@@ -21,3 +21,5 @@ The following files were created for this project:
 - comparison_frames.py: produces comparison frames to visualize the outputs
 
 This repository also contains zip files to the NOAA Dataset (sectioned by dive site), the SeaThruNeRF dataset, and a small semantic segmentation dataset (subset of 50 images from MS7T2).
+
+The Comparison Frames folder contains comparison frames of MS7T2, OS3T2N, and PS1T1 with WaterSplatting (labeled with "OG") and WaterSplatting with RAFT. A comparison frame of SeaThruNeRF-IUI3-RedSea is also provided.
