@@ -10,15 +10,14 @@ The following WaterSplatting files were altered:
 
 The following nerfstudio files were altered:
 - base_dataset.py
-- base_model.py
-- base_pipeline.py
 - full_images_datamanager.py
 - render.py
 - trainer.py
 - viewer.py
 
 The following files were created for this project:
-- comparison_frames.py
-- run_colmap.py
+- create_dataset.py: extracts frames one second apart from input videos
+- run_colmap.py: preprocesses the data with COLMAP
+- comparison_frames.py: produces comparison frames to visualize the outputs
 
 This repository also contains zip files to the NOAA Dataset (sectioned by dive site), the SeaThruNeRF dataset, and a small semantic segmentation dataset (subset of 50 images from MS7T2).
