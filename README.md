@@ -2,6 +2,9 @@
 
 This GitHub Repository contains the code relating to "Reconstructing Artifact-Free 3D Scenes of Coral Reefs" for CS231A Spring 2025.
 
+The original WaterSplatting code can be found here: https://github.com/water-splatting/water-splatting/tree/main
+The original nerfstudio code can be found here: https://github.com/nerfstudio-project/nerfstudio/tree/main/nerfstudio
+
 The following WaterSplatting files were altered:
 - water_splatting.py
 
