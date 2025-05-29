@@ -23,7 +23,7 @@ The following files were created for this project:
 
 The SeaThruNeRF dataset can be found here: https://drive.google.com/uc?export=download&id=1RzojBFvBWjUUhuJb95xJPSNP3nJwZWaT
 
-The NOAA Dataset (sectioned by dive site) can be found here:
+The NOAA Dataset (sectioned by dive site) can be found here: https://drive.google.com/file/d/1K6Fnljo5O1r-hcqW89KPIGSdUf7ZUqez/view?usp=drive_link
 
 The original website containing the NOAA videos can be found here: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0172858
 
